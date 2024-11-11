@@ -1,0 +1,246 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    width: 100vw;
+    height: 80px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#LOgo {
+    width: 50px;
+    height: 42px;
+}
+
+#footerbody {
+    width: 100vw;
+    height: 228px;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footerbig {
+    width: 1200px;
+    height: 68px;
+    background: black;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+#footerlogo {
+    width: 81px;
+    height: 68px;
+    margin: 0px;
+}
+
+.footerfb {
+    width: 167px;
+    height: 44px;
+    margin: 0px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+h1 {
+    margin: 0;
+}
+
+#stdivbig {
+    background-color: white;
+    width: 1200px;
+    height: 605px;
+    margin-top: 120px;
+    margin-left: 120px;
+    margin-right: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#textbox {
+    width: 555px;
+    height: 125px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+#main {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+#huvsgul {
+    width: 555px;
+    height: 88px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.font-size {
+    font-size: 72px;
+    padding-top: 0px;
+    margin: 0px;
+}
+
+#trip {
+    color: gray;
+}
+
+.photos {
+    width: 1199px;
+    height: 400px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    cursor: pointer;
+    img:hover {
+        transform: scale(1.05);
+        z-index: -0.5;
+        transition: 0.7s;
+    }
+}
+
+.zurag {
+    width: 284px;
+    height: 400px;
+}
+
+#ofour {
+    margin: 0px;
+    padding: 0px;
+}
+
+#secondbig {
+    padding-top: 0px;
+    margin-top: 240px;
+    display: flex;
+    align-items: start;
+}
+
+#bigdiv1 {
+    margin: 0px;
+}
+
+#dugui {
+
+    display: flex;
+    flex-direction: column;
+}
+
+.circle {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.circleug2 {
+    color: #777777;
+}
+.tseg {
+    width: 28px;
+    height: 40px;
+    background-color: white;
+    border-right: dashed;
+    border-color: black;
+}
+
+#circletext {
+    width: 231px;
+    background-color: white;
+    height: 536px;
+    margin-right: 55px;
+}
+
+.direction-container {
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+#thirdbig {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#thirdtext {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#thirdtexts {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#dollar1 {
+    display: flex;
+    justify-content: end;
+}
+#textscontainer {
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+}
+#dollar2 {
+    
+    display: flex;
+   justify-content: end;
+}
+#thirdtexts2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   
+}
+
+#manaicbig {
+    width: 100vw;
+    height: 393px;
+    background-color: #171717;
+
+}
+#manaicbig {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+}
+#idkk {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   justify-content: space-between;
+    
+}
+.greenborder:hover {
+    transition: 0.1s;
+     border: 2px solid green;
+
+}

@@ -255,6 +255,6 @@ h1 {
 
 .greenborder:hover {
     transition: 0.1s;
-    border: 2px solid green;
+    border: 2px solid rgb(1, 131, 1);
 
 }
